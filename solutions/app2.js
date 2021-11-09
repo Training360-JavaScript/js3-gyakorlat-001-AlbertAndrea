@@ -1,6 +1,3 @@
-
-
-
 const HU = {
     date(date) {
         const log = (locale = `hu-HU`) => {
